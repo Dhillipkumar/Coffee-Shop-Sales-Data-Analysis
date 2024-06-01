@@ -3,12 +3,12 @@
 
 Author: Dhillipkumar M
 
-Overview
+Overview:
 
 This repository contains an Exploratory Data Analysis (EDA) project on sales data from a local coffee shop. The goal is to gain insights into sales performance, customer behavior, and provide data-driven recommendations.
 
 
-Contents
+Contents:
 
 1.Abstract: Overview of the analysis and its objectives.
 
